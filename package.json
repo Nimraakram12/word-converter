@@ -1,0 +1,22 @@
+{
+  "name": "currency-converter-nim-456",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "currency-converter-nim-456": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "(MIT)",
+  "dependencies": {
+    "currency-converter-nim-456": "^1.0.0",
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
